@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1544117393 source:g:\masters\advanced c\advanced-c\france.c
+	<stdio.h>
+	"France.h"
+	<math.h>
+	<string.h>
+
+1544116503 g:\masters\advanced c\advanced-c\france.h
+	<stdlib.h>
+	"status.h"
+
+1544116995 g:\masters\advanced c\advanced-c\status.h
+
+1544116808 source:g:\masters\advanced c\advanced-c\francetest.c
+	<stdio.h>
+	"France.h"
+
+1544116897 source:g:\masters\advanced c\advanced-c\status.c
+	"status.h"
+
